@@ -43,9 +43,9 @@ So without a further ado,
 - [x] 	Add tint2 configs
 - [x]   Add termite configs
 - [ ]   Create installation script
-- [ ]	Add mpd.conf, ncmpcpp config
-- [ ]	Add .bashrc + .zshrc
-- [ ]   Add custom scripts
+- [x]	Add mpd.conf, ncmpcpp config at https://github.com/Aeres-u99/configfiles/
+- [x]	Add .bashrc + .zshrc at https://github.com/Aeres-u99/configfiles/
+- [x]   Add custom scripts at https://github.com/Aeres-u99/configfiles/
 - [ ]	pewpew :D 
 
 # Shamefully stolen from: 
